@@ -7,7 +7,7 @@ permalink: /about/
 Hi, my name is Tim.  
 This is me -> (or it will be when I find a good photo to use here)
 
-I've been a tech-nerd all my life and love to solve problems, so it was no surprise to anyone that I went to university and graduated with a Bachelor in IT (Software Engineering) - unfortunately in the wake of the GFC ([Global Financial Crisis](https://www.rba.gov.au/education/resources/explainers/the-global-financial-crisis.html) for anyone too young to remember that). It's all good though, I found a job and was soon starting to solve all sorts of Tech problems - life was good.
+I've been a tech-nerd all my life and love to solve problems, so it was no surprise to anyone that I went to university and graduated with a Bachelor in IT (Software Engineering) - unfortunately that was in the wake of the GFC ([Global Financial Crisis](https://www.rba.gov.au/education/resources/explainers/the-global-financial-crisis.html) for anyone too young to remember that). It's all good though, I found a job and was soon starting to solve all sorts of Tech problems - life was good.
 
 Then a funny thing happened: the problems I wanted to solve were no longer Tech problems - those were easy - what I wanted to solve were the meta-problems like  
 
