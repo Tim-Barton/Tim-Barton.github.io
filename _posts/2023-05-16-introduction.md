@@ -1,8 +1,10 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: post
+title:  "Introduction"
+date:   2023-05-16 11:50:27 +1000
+categories: random
 ---
+
 
 Hi, my name is Tim.  
 This is me -> (or it will be when I find a good photo to use here)
@@ -44,8 +46,3 @@ Firstly in the sense that every approach has it's pros & cons where you need to 
 
 Process creates a structure to the way you do things, a structure that is designed to help people work more effectively, but also creates a rigidity to how you approach things. Sometimes that rigidity will start to hurt your business and you need to change or remove a process, but I've found people don't like this and will resist you. Since *adding* a process is usually easier than *removing* one, I prefer starting with something lite and adding to it, rather than going whole hog and realising you've gone too far
 
-
-
-### Notes & Addendum
-
-This site us currently created using [Jekyll](https://jekyllrb.com/) and [Github pages](https://pages.github.com/), so props to those communities for how easy it was to get this going
