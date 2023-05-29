@@ -54,4 +54,4 @@ Process creates a structure to the way you do things, a structure that is design
 
 ### Notes & Addendum
 
-This site us currently created using [Jekyll](https://jekyllrb.com/) and [Github pages](https://pages.github.com/), so props to those communities for how easy it was to get this going
+This site is currently created using [Jekyll](https://jekyllrb.com/) and [Github pages](https://pages.github.com/), so props to those communities for how easy it was to get this going
