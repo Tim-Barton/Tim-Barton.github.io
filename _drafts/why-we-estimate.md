@@ -13,7 +13,6 @@ Without further ado here are my completely subjective "valid" reasons for doing 
 * Tendering
 * Lead Times
 
-
 ## Opportunity Assessment
 
 Almost every Estimate I've been asked to create boiled down to the simple question of "Are we going to make money doing this?" Given every business (even non-profits) need to make more money than they spend in order to stay in business, this question is a very important one. While cost is just one deciding factor in any decision, the level of accuracy needed for the cost changes the closer you get to making the decision.
@@ -37,7 +36,7 @@ Software Product design can follow a similar lifecycle:
 Note:  
 When I say "costs" I mean that to cover all the possibilities: money, time, number of Developers, etc. Each business will be different in what they care about and track, so substitute "cost" with whatever personal metrics your company uses  
 
----  
+---
 <br>
 Each stage of this cycle needs a different level of Estimate. Just as with the house search where you have a range of costs you're looking at, a Business in the first Phase is mostly looking to understand whether the idea is viable in general. By the final stage the Business should have a very clear idea on the expected return, and therefore the appropriate costs they can take.
 
@@ -77,7 +76,7 @@ The best case scenario for this Product was to launch it *as close to* the adver
 
 ### The Problem
 
-The main issue I've seen with timeline Estimates boils down to a difference between Effort and Schedule. Most Developers I've seen tend to estimate in terms of Effort - in a perfect uninterrupted world it should take X days to complete that task. Unfortunately we don't live in a perfect world, there's an endless drain on our time: Daily Standup, Weekly Team meetings, Monthly Department meetings, Code Reviews of others' work, calls from the Junior asking for help, Sick Days, Annual Leave, and the list goes on. 
+The main issue I've seen with timeline Estimates boils down to a difference between Effort and Schedule. Most Developers I've seen tend to estimate in terms of Effort - in a perfect uninterrupted world it should take X days to complete that task. Unfortunately we don't live in a perfect world, there's an endless drain on our time: Daily Standup, Weekly Team meetings, Monthly Department meetings, Code Reviews of others' work, calls from the Junior asking for help, Sick Days, Annual Leave, and the list goes on.
 
 Secondly with Effort based Estimates they can be based on an internal thought process of 'How long will this take *me*' when the work in question might be done by someone either less skilled or less knowledgeable in the domain.
 
