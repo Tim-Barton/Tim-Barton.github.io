@@ -30,7 +30,7 @@ github_username:  Tim-Barton
 linkedin_username: tim-barton
 
 # Build settings
-theme: minima
+theme: just-the-docs
 plugins:
   - jekyll-feed
 
