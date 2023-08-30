@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Why we Estimate"
+categories: estimation
 ---
 
 I've never met a Developer who likes to Estimate (or at least admits to liking it). We've all done Estimates sure, but at best it's with a stoic acceptance that "it's just part of the job" and at worst it's with a hate-filled "why are we wasting our time with this".
