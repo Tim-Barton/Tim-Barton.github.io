@@ -31,13 +31,9 @@ Software Product design can follow a similar lifecycle:
 3. As they work through the product they'll work on the individual features until it's a solid product idea with a cost/risk breakdown
 4. Finally someone needs to determine which of the planned products gets executed and in which order, based (partially) on the costs
 
----
-
-Note:  
+{: .note}  
 When I say "costs" I mean that to cover all the possibilities: money, time, number of Developers, etc. Each business will be different in what they care about and track, so substitute "cost" with whatever personal metrics your company uses  
 
----
-<br>
 Each stage of this cycle needs a different level of Estimate. Just as with the house search where you have a range of costs you're looking at, a Business in the first Phase is mostly looking to understand whether the idea is viable in general. By the final stage the Business should have a very clear idea on the expected return, and therefore the appropriate costs they can take.
 
 ### The Problems
@@ -53,7 +49,7 @@ The second problem is when the Business have spent so much time and energy on an
 Both problems can be solved by the same action - get involved earlier in the planning. Hopefully you've heard of the concept of [Shift Left](https://en.wikipedia.org/wiki/Shift-left_testing) where the earlier in the Development cycle testing is considered, the better the final product is. The same concept can be applied to Product - the earlier in the Product design cycle a Developer has input, the closer aligned the Product is to current systems capabilities, which in turn makes the Product cheaper.
 
 "But Tim" I hear you say "I'm just a Developer, isn't it Senior Management's job to deal with that early phase stuff?"  
-Well, Yes, but let's be real, for every Senior Manager I've had who understood the systems I was working on I've had 2 or 3 who barely knew how the Product itself worked, let alone the technical systems. I've even had a Senior Manager who (to the best of my knowledge) has never written a line of code in their life. Most of them therefore won't have the knowledge required to influence a decision so it aligns with the current technology capabilities.  
+Well, Yes, but let's be real, for every Senior Manager I've had who understood the systems I've had 2 or 3 who barely knew how the Product itself worked, let alone the technical systems. I've even had a Senior Manager who (to the best of my knowledge) has never written a line of code in their life. Most of them therefore won't have the knowledge required to influence a decision so it aligns with the current technology capabilities.  
 
 Does this mean I'm telling you to barge into CTO level meetings to make your opinions known? No, that's literally the worst thing you can do. Focus instead on the fact that for every Chief Marketing Officer with a great idea, there will be a team of Marketing and Product people tasked with seeing it to life - so go make friends with one of them. If you can influence them in the early Phases to shape the product in way that works better with your systems, the lower final Estimates mean they'll see the success of working with you and continue to do so. You in turn then spend less time arguing over Estimates and more time coding.  
 
@@ -65,7 +61,7 @@ One possibility is when the Tender allows a 'non-compliant bid' which means you 
 
 ## Lead Times
 
-This is actually a fairly recent addition to my list that occurred when I was working on a consumer facing value-add product for a Marketing department. It was designed to be a [loss leader](https://en.wikipedia.org/wiki/Loss_leader) - something that could be marketed far and wide to draw customers in with the promise of how much value they'd get from us. In the course of events we were told that TV ad slots had been booked in time for a big event just after our expected launch which were going to feature our product. This came with the dire warning that they'd need 6 weeks to produce different content for those slots if we were going miss our expected launch date. My first reaction was along the lines of "Why'd they book ads before the product is done, just be patient, sheesh." Then a light bulb went off regards the concepts of ['Wastes'](https://theleanway.net/The-8-Wastes-of-Lean) from Lean Principles.
+This is actually a fairly recent addition to my list that occurred when I was working on a consumer facing value-add product for a Marketing department. It was designed to be a [loss leader](https://en.wikipedia.org/wiki/Loss_leader) - something that could be marketed far and wide to draw customers in with the promise of how much value they'd get from us. In the course of events we were told that TV ad slots to feature our product had been booked for just after our expected launch date and ahead of a major event. This came with the dire warning that they'd need 6 weeks to produce different content for those slots if we were going miss our expected launch date. My first reaction was along the lines of "Why'd they book ads before the product is done, just be patient, sheesh." Then a light bulb went off regards the concepts of ['Wastes'](https://theleanway.net/The-8-Wastes-of-Lean) from Lean Principles.
 
 Basically I realised that:
 
@@ -92,3 +88,9 @@ Relative Estimation is a wildly written topic (and I have my own post planned fo
 The schedule modifier is a concept I've used to turn the Effort Estimate into a Schedule Estimate by applying a broad multiplier denoting how much Effort a Developer can spend in a day on their tasks. I've used figures a low as 50% and as high as 80% depending on the team make-up, prior performance, and the expectation of external interruptions, meetings, etc. Using a schedule modifier isn't an exact science but I've found that as you track your deliveries you will find a figure that represents the output of the team.
 
 The concept here isn't to be 100% precise on each individual feature, but to create a realistic trackable project estimate that can live within the margin of error for your work.
+
+## Conclusion
+
+I don't think that Estimates are ever going to the favourite part of a Software Developers job, but by understanding why an Estimate is required you can help remove some of the pain.  
+
+There are some future posts planned around Estimates and ways to approach them, which should hopefully help reduce that pain even further.
