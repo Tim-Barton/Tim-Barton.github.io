@@ -18,6 +18,7 @@ And you know what? I *like* that job.
 ### So what is this site?  
 
 First and foremost it's a place where I can start collecting my thoughts on practices and approaches to build out my personal playbook. Somewhere other than my head like I have been for the last few years.  
+
 Of course I could have just done that in a Google doc, or some other note-taking app, but by being public I hope I can help someone else figure out what works for them, and generally help people beyond my immediate sphere of influence.
 
 ### What should you expect?  
