@@ -26,7 +26,7 @@ Now that we've relatively sized the options, we give them some rough estimates, 
 | Bath Bombs | Books<br> Flowers (Shops) | Flowers (Florist)<br>Massage | Jewellery | Cruise |
 | ~$5 | ~$20-$30 | $50-$100 | $100-$200 | $1000+ |
 
-These rough estimates now allow us to think about the cost vs. value and whether it would be better to get one big present, or a few small present with the budget we've allotted.
+These rough estimates now allow us to think about the cost vs. value and whether it would be better to get one big present, or a few small presents with the budget we've allotted.
 
 We can estimate software features in the same way, either to understand what's possible within a budget, or what the rough total cost of all the desired features.
 
@@ -86,7 +86,7 @@ There are two main models I've seen used for Relative Estimates:
 
 ### T Shirt Sizing
 
-This is the act of breaking work into buckets similar to the sizes used in Men's clothes (shirts in particular): Extra Small, Small, Medium, Large, Extra Large, etc. The example provided above is a demonstration of using T Shirt Sizing.
+This is the act of breaking work into buckets based on the sizes used in Men's clothes (shirts in particular): Extra Small, Small, Medium, Large, Extra Large, etc. The example provided above is a demonstration of using T Shirt Sizing.
 
 Some people I know prefer to have their T Shirts work on a Linear scale, where each size is just the next step up. Personally I like working on an Exponential Scale where the sizes "jump" more - specifically I like it when each size is double that before it.
 
@@ -97,13 +97,13 @@ Some people I know prefer to have their T Shirts work on a Linear scale, where e
 
 I prefer Exponential Scale because I feel it's easier to rationalise about the relative sizes when you can ask questions like "Ok so Feature A is bigger than Feature B, but is it twice as big or just a little bigger?" It also becomes easier to gut check the Final Estimate as the buckets are related. Lastly by having a much larger number associated with your largest items of work it helps embody the concept that they are usually those with the most risk.
 
-My normal process is to relative size all the features, then Estimate one of the 'Small' tickets and one of the 'Large' tickets. If we've sized correctly the 'Large' Estimate should be 4 times the 'Small'. We can then calculate the other sizes Estimates and allow the team to gut check them against the features in each bucket. This provides a few different points of validation to catch any errors or outliers without an undue amount of extra effort.
+My normal process is to relative size all the features, then Estimate one of the 'Small' tickets and one of the 'Large' tickets. If we've sized correctly the 'Large' Estimate should be 4 times the 'Small'. We can then calculate the other sizes' Estimates and allow the team to gut check them against the features in each bucket. This provides a few different points of validation to catch any errors or outliers without an undue amount of extra effort.
 
 These validation steps also help protect against one of the major downsides of T Shirt Estimation: The Extra Large bucket becoming an 'or bigger' bucket for all the things that are just too big to think about. No-one wins if you leave these super big tickets as they are, so when you find them you really need to do some feature breakdown to ensure they fit within your scale and are being estimated correctly.
 
 ### Story Points
 
-Story Points are probably the most well known Relative Estimation technique as it has become a staple part of a "standard" Scrum implementation. With Story Points, the buckets we use are numbers (as compared to labels like in T Shirt sizing) which allows us to estimate using the concept of Velocity - defined as the number of Points achievable by the Team in a given time period. When you generate your expected Velocity using past data this has the extra benefit of handling the Senior/Junior estimation difference, because the score has already aggregated the different amount of work that each person is able to achieve.
+Story Points are probably the most well known Relative Estimation technique as it has become a staple part of a "standard" Scrum implementation. With Story Points, the buckets we use are numbers (as compared to labels like in T Shirt sizing) which allows us to Estimate using the concept of Velocity - defined as the number of Points achievable by the Team in a given time period. When you generate your expected Velocity using past data this has the extra benefit of handling the Senior/Junior estimation difference, because the score has already aggregated the different amount of work that each person is able to achieve.
 
 Similarly to T Shirt Sizing, Story Points have two major scales that I've come across: the [Planning Poker](https://storypoint.poker/) scale and the Fibonacci Sequence.
 
@@ -115,13 +115,13 @@ While I do use T Shirts for my up front Estimation, I switch to Story Points for
 
 * over the course of the project you're going to learn things that make your in progress estimates more accurate than your up front estimates.
 * Velocity is a useful tool for ensuring you're taking the right amount of work into each Iteration
-* if you're already having good ticket discussions in your planning, adding a final estimate step doesn't take much longer, and can uncover edge cases not originally discussed.
+* if you're already having good ticket discussions in your planning, adding a final estimate step doesn't take much longer, and can uncover assumptions that weren't discussed.
 
 ## Things to keep in mind when using Relative Estimation
 
 ### Remember you're Sizing/Estimating against the other tickets
 
-I've been in situations where teams or individual have created an expectation that "Large" means "6 weeks", so they'll estimate the feature in their head, then convert to the T Shirt or Story Point size.
+I've been in situations where teams or individuals have created an expectation that "Large" means "6 weeks", so they'll estimate the feature in their head, then convert to the T Shirt or Story Point size.
 
 This is just standard Estimation with added steps, keeping all the problems and adding none of the benefits.
 
