@@ -138,3 +138,7 @@ As you get more mature this will become less necessary, but still something you 
 Tickets in the highest buckets can sometimes become an 'or bigger' scenario, where your Estimate says they'll be 6 weeks, but in reality they're a lot bigger.
 
 Do your best to identify tickets that are in this category and either break them down into smaller chunks, or plan to spend early iterations on these tickets until you can break them down.
+
+## Final Thoughts
+
+While the roughness of Relative Estimation can be confronting for people who are used to the apparent precision of traditional techniques, it's speed and collaborative nature make it a worth while tool for a high functioning software team.
