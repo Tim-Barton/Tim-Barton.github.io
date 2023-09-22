@@ -142,3 +142,5 @@ Do your best to identify tickets that are in this category and either break them
 ## Final Thoughts
 
 While the roughness of Relative Estimation can be confronting for people who are used to the apparent precision of traditional techniques, it's speed and collaborative nature make it a worth while tool for a high functioning software team.
+
+Furthermore as touched on in my post on [Why We Estimate]({% link _posts/2023-08-30-why-we-estimate.md %}), the speed of the process helps Technology and Business better align because the overhead for early validation of a new idea is a lot smaller, allowing greater collaboration between these two groups

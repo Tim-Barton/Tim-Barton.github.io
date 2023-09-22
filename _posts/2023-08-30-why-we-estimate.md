@@ -81,10 +81,10 @@ Secondly with Effort based Estimates they can be based on an internal thought pr
 
 To combat this I use a two-fold approach:
 
-1/. Use [relative estimation](https://www.agilealliance.org/glossary/relative-estimation) techniques  
+1/. Use [relative estimation]({% link _posts/2023-09-22-relative-estimation.md %}) techniques  
 2/. Apply a schedule modifier based on past data  
 
-Relative Estimation is a wildly written topic (and I have my own post planned for the future) that can help remove some of the "I'm doing this work" bias, as well as solving a host of other problems.
+Relative Estimation is a wildly written topic (~~and I have my own post planned for the future~~ It's now live and linked above) that can help remove some of the "I'm doing this work" bias, as well as solving a host of other problems.
 
 The schedule modifier is a concept I've used to turn the Effort Estimate into a Schedule Estimate by applying a broad multiplier denoting how much Effort a Developer can spend in a day on their tasks. I've used figures a low as 50% and as high as 80% depending on the team make-up, prior performance, and the expectation of external interruptions, meetings, etc. Using a schedule modifier isn't an exact science but I've found that as you track your deliveries you will find a figure that represents the output of the team.
 
