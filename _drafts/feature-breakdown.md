@@ -2,6 +2,7 @@
 layout: post
 title:  "Feature Breakdown"
 categories: features
+comments: true
 ---
 
 Feature Breakdown is the act of taking your body of work and breaking it down into the discrete tickets that can be worked on individually.
@@ -25,7 +26,7 @@ The problem is when a Developer thinks this is enough breakdown to understand th
 This puts the Developer in the position of needing to figure out the Functional side of a feature (what it needs to do) while also trying to figure out the Technical side (how it does it). Since stakeholders aren't hanging around to answer every little question on the 'what' this means the Developer has to either:
 
 * Wait around for an answer, delaying all their other work
-* Pick up another ticket with the risk that ticket also becomes blocked leading to spiralling cycle of backed up work
+* Pick up another ticket with the risk that new ticket also becomes blocked leading to spiralling cycle of backed up work
 * Take a best guess with the risk of being "wrong" and having to redo the functionality.
 
 A better approach is to have defined regular Feature Breakdown sessions with your stakeholders to ensure that you can get all the answers to those questions up front.
@@ -48,9 +49,9 @@ Part of this comes from a study into [Test Driven Development (TDD)](https://en.
 
 A ticket is a vertical slice when it contains all the work required to complete the feature across all the stacks - Frontend, Backend, Databases, etc.
 
-The analogy I like to use is serving a piece of cake: you don't serve just the cake base, then the filler cream, then the icing last, you serve the whole slice with all the components together. Similarly in Software completing just the Frontend doesn't give the user a usable feature, all the component across all the stacks must be delivered for the user to get any value. From their point of view they want to perform some action and get some level of outcome from the system, even if that outcome is just a response saying something went wrong.
+The analogy I like to use is serving a piece of cake: you don't serve just the cake base, then the filler cream, then the icing last, you serve the whole slice with all the components together. Similarly in Software completing just the Frontend doesn't give the user a usable feature, all the components across all the stacks must be delivered for the user to get any value. From their point of view they want to perform some action and get some level of outcome from the system, even if that outcome is just a response saying something went wrong.
 
-This works even in teams with stack specialists (i.e. Backend Devs separate from Frontend Devs, etc) as it helps ensure that all members are aligned on the expectations of feature even if they have their own tasks within that.
+This works even in teams with stack specialists (i.e. Backend Devs separate from Frontend Devs, etc) as it helps ensure that all members are aligned on the expectations of feature even if they have their own tasks within it.
 
 ### Practically trumps all
 
