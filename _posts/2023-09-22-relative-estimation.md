@@ -2,6 +2,7 @@
 layout: post
 title:  "Relative Estimation"
 categories: estimation
+comments: true
 ---
 
 Relative Estimation is the act of grouping features by their relative size then estimating each group, rather than estimating each individual feature as per traditional methods.
