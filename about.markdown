@@ -2,7 +2,6 @@
 layout: page
 title: About Me
 permalink: /about/
-comments: true
 ---
 
 Hi, my name is Tim.  
@@ -43,6 +42,3 @@ Process creates a structure to the way you do things, a structure that is design
 ### Notes & Addendum
 
 This site is currently created using [Jekyll](https://jekyllrb.com/) and [Github pages](https://pages.github.com/), so props to those communities for how easy it was to get this going
-
-Env: {{ jekyll.environment }}
-Comments: {{ page.comments }}
