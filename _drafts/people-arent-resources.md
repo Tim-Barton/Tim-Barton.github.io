@@ -15,13 +15,15 @@ I believe this poor understanding stems from the Project Management Bible - the 
 
 `Project Resource Management : the processes that organize, manage, and lead the project team.`
 
+# Why do I think it's a problem
+
 As an exercise I want you to list down all the things you think of as "Resources".
 
 Chances are I expect your list contains things like:
-* Pens
-* Paper
-* Printers
-* Petrol
+- Pens
+- Paper
+- Printers
+- Petrol
 
 (It's only as in write this I realise my usual examples are all P words )
 
@@ -30,5 +32,6 @@ What all these things have in common is they are usually:
 - normally with very little lead time,
 - while their prices may differ, any difference in quality is usually negligible.
 
-This in no way describes Engineers, and yet I have on multiple occasions had a conversation along the lines of
-Me: Engineer X is going on leave for 2 weeks and their tasks are on the critical path
+This in no way describes Engineers, and yet I have on multiple occasions had to explain that replacing the about-to-take-leave Senior Engineer with a decade's experience on the system with a Junior Engineer who's fresh out of uni is not going to keep a project on track. (Ok, I'll admit to a bit of peotic licence here: I've never had to explain anything *quite* that egregious, but I've still had similar conversations, and it does illustrate my point rather nicely I think)
+
+Engineers come in a wide variety of skills, knowledge, and backgrounds, and getting the best out of them requires understanding those aspects, and assigning them work as appropriate.
